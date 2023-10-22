@@ -1,3 +1,6 @@
 file_1.txt
 
 I write something
+I write something
+I write something
+I write something
